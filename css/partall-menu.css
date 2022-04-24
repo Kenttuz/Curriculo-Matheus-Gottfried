@@ -1,0 +1,5 @@
+.img-profile{
+    width: fit-content;
+    position: relative;
+    object-fit: fill;
+}
